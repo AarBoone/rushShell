@@ -1,5 +1,7 @@
 This was a project for my Operating Systems class to create a shell that can execute UNIX commands.
 
+![Alt Text](https://github.com/AarBoone/rushShell/blob/main/term.gif)
+
 It just takes a string and uses some simple parsing rules to split it into commands and uses execv() to execute.
 
 Has built in commands:
